@@ -1,4 +1,4 @@
-#!/home/ldoguing/.cargo/bin/cbsh --script
+#!/usr/bin/cbsh --script
 
 print "Running long script..."
 

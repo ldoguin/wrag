@@ -1,4 +1,4 @@
-#!/home/ldoguing/.cargo/bin/cbsh --script
+#!/usr/bin/cbsh --script
  
 # Usage: http POST :8080/echo msg==hello foo=bar
 
